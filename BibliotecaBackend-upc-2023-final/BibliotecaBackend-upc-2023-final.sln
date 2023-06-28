@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaBackend-upc-2023-final", "BibliotecaBackend-upc-2023-final.csproj", "{CD7CA9E0-E56F-40C4-B4FD-3ECCD9094A69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD7CA9E0-E56F-40C4-B4FD-3ECCD9094A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7CA9E0-E56F-40C4-B4FD-3ECCD9094A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7CA9E0-E56F-40C4-B4FD-3ECCD9094A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7CA9E0-E56F-40C4-B4FD-3ECCD9094A69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB5C3D6B-9E8C-401A-AF36-E7660505CF73}
+	EndGlobalSection
+EndGlobal
